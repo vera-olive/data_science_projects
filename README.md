@@ -1,4 +1,4 @@
-# world_development_indicators_sql
+# World Development Indicators exploration with SQL
 
 ## Hello! 
 This repo contains a data analysis project in the form of Jupyter notebooks. This is done for self learning purposes.
